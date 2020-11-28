@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(81, 148, 43);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rbg(8, 8, 8);
+    background-color: chocolate;
+}
+
+a {
+    color: whitesmoke;
+}
+
+#chartreuse {
+    color: chartreuse;
+}
+
+#bordered {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 10px;
+    border: 2px solid rgb(255, 208, 0);
+}
+
+#dottedborder {
+    margin: 30px;
+    padding: 15px;
+    border: 5px dotted black
+}
+
+#doubleborder {
+    margin: 30px;
+    padding: 15px;
+    border: 5px double black
+}
+
+h1.centre {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    margin: 100px;
+}
+
+p.centre {
+    text-align: center;
+}
+
+p.large {
+    font-size: 200%;
+}
